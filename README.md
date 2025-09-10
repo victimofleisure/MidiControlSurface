@@ -4,3 +4,9 @@ This Windows app provides a basic MIDI control surface. It's organized as a list
 
 The app is currently limited to a single row, but the intention is to allow rows to be added, deleted, and reordered.
 
+The code compiles cleanly in Visual Studio 2012 and probably later versions too.
+
+# Links
+
+* [Chris Korda software](https://victimofleisure.github.io/software)
+
